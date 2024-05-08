@@ -9,13 +9,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:realokd/thence_assignment.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd vite-react-project
+    cd thence_assignment
     ```
 
 3. **Install dependencies:**
@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
     npm run dev
     ```
 
-   This command starts the development server. You can view your React app by navigating to `http://localhost:3000` in your browser.
+   This command starts the development server. You can view your React app by navigating to `http://localhost:5173` in your browser.
 
 ## Available Scripts
 
